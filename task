@@ -25,3 +25,7 @@ task
 </body>
 </html>
 
+driver.manage.window.maximize();
+driver.manage.window.minimize();
+driver.manage.window.fullscreen();
+driver.manage.window.maximize();
